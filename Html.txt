@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sky Linguist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sky Linguist</h1>
+        <div id="map">
+            <button class="country" data-country="France">France</button>
+            <button class="country" data-country="Japan">Japan</button>
+            <button class="country" data-country="Brazil">Brazil</button>
+        </div>
+        <div id="challenge" class="hidden">
+            <p id="question"></p>
+            <input type="text" id="answer" placeholder="Your answer">
+            <button id="submit">Submit</button>
+        </div>
+        <p id="result"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
