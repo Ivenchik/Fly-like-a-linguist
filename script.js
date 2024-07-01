@@ -1,16 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     const countries = {
         'France': {
-            question: 'Translate "Hello" to French',
-            answer: 'Bonjour'
+            question: 'Translate "In the sky" to French',
+            answer: 'Dans le ciel'
         },
         'Japan': {
-            question: 'Translate "Thank you" to Japanese',
-            answer: 'Arigato'
+            question: 'Translate "I love you" to Italian',
+            answer: 'Te amo'
         },
         'Brazil': {
-            question: 'Translate "Good morning" to Portuguese',
-            answer: 'Bom dia'
+            question: 'Translate "Languages" to Bulgarian',
+            answer: 'Ezici'
         }
     };
 
