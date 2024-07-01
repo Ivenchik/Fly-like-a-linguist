@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
             question: 'Translate "In the sky" to French',
             answer: 'Dans le ciel'
         },
-        'Japan': {
+        'Italy': {
             question: 'Translate "I love you" to Italian',
             answer: 'Te amo'
         },
-        'Brazil': {
+        'Bulgaria': {
             question: 'Translate "Languages" to Bulgarian',
             answer: 'Ezici'
         }
